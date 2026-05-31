@@ -1,8 +1,8 @@
 # Personal Portfolio Website
 
-## Overview
+## Purpose
 
-This is a personal portfolio website created to showcase my web development skills, projects, and technical knowledge. The website is designed with a clean and responsive user interface that works across different devices.
+This project was developed as a practice portfolio website to improve frontend development skills and gain hands-on experience with website design and deployment using GitHub Pages.
 
 ## Features
 
@@ -18,7 +18,6 @@ This is a personal portfolio website created to showcase my web development skil
 
 * HTML5
 * CSS3
-* JavaScript
 * Git & GitHub
 
 ## Purpose
