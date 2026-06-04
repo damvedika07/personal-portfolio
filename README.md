@@ -20,22 +20,10 @@ This project was developed as a practice portfolio website to improve frontend d
 * CSS3
 * Git & GitHub
 
-## Purpose
-
-This project was developed as a practice portfolio website to improve frontend development skills and gain hands-on experience with website design and deployment using GitHub Pages.
-
 ## Future Improvements
 
 * Add real-world projects section
 * Add downloadable resume
 * Integrate contact form
 * Add dark/light mode
-* Enhance animations and user interactions
-
-## Author
-
-Vedika Damkondwar
-
-## Live Demo
-
-The website is deployed using GitHub Pages and serves as a demonstration of frontend web development skills.
+* Enhance animations and user interaction
